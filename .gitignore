@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trash
+.Trash-*/
+
+# Data files (ajuste selon tes besoins)
+*.pkl
+*.h5
+*.hdf5
+data/
+datasets/
+
+# Logs
+*.log
+logs/
+
+# Model checkpoints (optionnel)
+checkpoints/
+*.pth
+*.pt
